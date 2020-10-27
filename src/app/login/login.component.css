@@ -1,0 +1,28 @@
+form{
+  max-width: 400px;
+  margin: auto;
+}
+
+.form-control{
+  margin-bottom: 10px;
+}
+
+.form-control:focus{
+  box-shadow: none;
+  outline: none;
+}
+
+.alert{
+  padding: 5px;
+  padding-left: 10px;
+}
+
+.toggle{
+  float: right;
+}
+
+.message{
+  margin-top: 30px;
+  font-size: 20px;
+  text-align: center;
+}
